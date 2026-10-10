@@ -1,2 +1,2 @@
-# GitHub-Intro
-Introductory repo for practicing Git and GitHub
+echo -e "\n- Collaborator: Reiner Nuevas" >> README.md
+- Collaborator: Reiner Nuevas
